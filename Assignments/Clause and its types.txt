@@ -1,4 +1,6 @@
 **** Choose whether the single quoted part in the sentence is an independent or dependent clause.
+----------------------------------------------------------------------------------------------------
+
 
 1. 'I will be so upset' if she decides not to visit me.
 ->

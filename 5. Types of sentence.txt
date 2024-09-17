@@ -1,0 +1,37 @@
+-- We have 4 types of sentences :
+
+1} Simple sentence
+2} Complex sentence
+3} Compound sentence
+4} Compound Complex sentence
+
+
+1] Simple sentence:
+
+-- It has a subject and a verb or it contains one Clause.
+-- It makes complete sense independently.
+-- For example,
+
+    > Ketan is a good man.      [Ketan -> subject, is -> verb, a good man -> object]
+    > Tiger ran.
+
+2] Compund sentence:
+
+-- A compound sentence is a sentence that connects two independent clauses, typically with a coordinating conjunction like and or but.
+-- The key here is independent clauses, which are clauses that can each stand alone as a separate sentence.
+-- For example,
+
+    > I have a pet dog. His name is Fluffy.
+    > I have a pet dog, and his name is Fluffy.     [To combine above sentence, we just added , and coordinating conjunction 'and']
+    > I have a pet iguana; his name is Fluffy.      [To combine above sentence, we can add just semi colon as well]
+
+-- Although they’re talking about the same topic, the subject of each independent clause is different: The first clause’s subject is I, 
+   and the second one’s subject is name.
+-- That’s part of what makes them independent, and a sentence is considered compound only when it consists of independent clauses.
+-- For example, the sentence below is not a compound sentence:
+
+    > I have a pet dog whose name is Fluffy.
+
+-- To be a compound sentence, it needs at least two subjects and two verbs.
+
+
