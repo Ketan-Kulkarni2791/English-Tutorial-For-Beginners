@@ -1,7 +1,6 @@
 -- Pronunciation
 -- Your Routine in english
--- Clause and types of Clause
--- Dependent Clause
+-- Clause and types of Clause (Independent and Dependent)
 -- Types of sentence
 -- Compound sentence
 -- Coordinating conjunction

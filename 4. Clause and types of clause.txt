@@ -1,0 +1,52 @@
+**** Clause :
+
+-- Clause is a combination of words with a subject and a verb.
+-- For example,
+
+    > Shardhha enjoyed.  [Shardhha -> Subject, enjoyed -> verb]
+    > She is smiling because she remembered happy moments. ['She is smiling', 'she remembered happy moments' -> Clause]
+
+
+**** Types of Clause :
+
+1) Independent Clause:
+
+-- Also known as Main Clause.
+-- They make a complete meaningful sentence on their own without co-depending on other sentences.
+-- For example,
+
+    > Shradhha shouted.
+    > Ketan watched movie.      [Ketan -> Subject, watched -> verb, movie -> object]
+
+2) Dependent Clause:
+
+-- Dependent clauses are a little more complicated.
+-- Also known as Subordinating Clause.
+-- dependent clauses alone are not complete sentences, even though they have both a subject and verb.
+-- It is dependent on main clause for its meaning.
+-- For example,
+
+    > You bought for me.   [What ???]
+    > Cat was smarter.     [Than whom ???]
+
+
+Independent and dependent clause examples :
+
+    > Independent: Next Tuesday will be my first day at my new job.
+      Dependent:   If the interview goes well, next Tuesday will be my first day at my new job.
+    
+    > Independent: You have to finish your vegetables, and then you can eat dessert.
+      Dependent:   You have to finish your vegetables before you can eat dessert.
+
+Note : 
+
+-- If the dependent clause comes first, use a comma between the two clauses.
+
+    > Wherever you go, I will follow.
+
+-- If the independent clause comes first, no comma is necessary.
+
+    > I will follow wherever you go.
+
+
+
