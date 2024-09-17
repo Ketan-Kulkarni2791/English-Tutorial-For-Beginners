@@ -1,0 +1,55 @@
+1. "A" --> "ay" as in "say"
+
+2. "B" --> "bee" as in "bee"
+
+3. "C" --> "see" as in "see"
+
+4. "D" --> "dee" as in "dee"
+
+5. "E" --> "ee" as in "beet"
+
+6. "F" --> "eff" as in "effort"
+
+7. "G" --> "jee" as in "gym"
+
+8. "H" --> "aych" as in "hay"       # 'y' is silent
+
+9. "I" --> "eye" as in "sky"
+
+10. "J" --> "jay" as in "jay"       # deep thong
+
+11. "K" --> "kay" as in "kite"      # deep thong
+
+12. "L" --> "ell" as in "hell"
+
+13. "M" --> "em" as in "mom"
+
+14. "N" --> "en" as in "pen"
+
+15. "O" --> "oh" as in "go"
+
+16. "P" --> "pee" as in "pea"
+
+17. "Q" --> "cue" as in "queue"
+
+18. "R" --> "ar" as in "car"
+
+19. "S" --> "ess" as in "escape"
+
+20. "T" --> "tea" as in "tea"
+
+21. "U" --> "you" as in "blue"
+
+22. "V" --> "wee" as in "very"
+
+23. "W" --> "double-you" as in "weight"
+
+24. "X" --> "eks" as in "sex"
+
+25. "Y" --> "wye" as in "bye"
+
+26. "Z" --> "zee/zed" as in "zebra"
+
+-- Not 'alphabets'. It's 'alphabet'.
+-- Collection of letters = Alphabet
+
