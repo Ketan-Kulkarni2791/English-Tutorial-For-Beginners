@@ -1,0 +1,16 @@
+-- It is used to help two independent clauses to come together to form a compound sentence.
+-- The words that help you or that are recognized as coordinating conjunctions are - FANBOYS.
+-- FANBOYS - For, And, Nor, But, Or, Yet, So.
+-- For example,
+
+    > It was raining, so I carried an umbrella.  ['It was raining', 'I carried an umbrella' -> Independent clause, 
+                                                 ',' -> Punctuation mark comma,'so' -> coordinating conjunction]
+
+
+1] Coordinating conjunctions to join independent clauses :
+
+-- An independent clause is a clause that can stand alone as a simple sentence.
+-- When two independent clauses are logically closely related, it often makes sense to combine them into a compound sentence with the 
+   help of a coordinating conjunction and a comma..
+
+    
