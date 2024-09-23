@@ -1,0 +1,111 @@
+-- A noun is a word that names something, such as a person, place, thing, or idea. 
+
+****** Types of Nouns :
+
+1] Concrete Nouns :
+
+-- In english, concrete nouns are PEOPLE, PLACES or THINGS including ANIMALS.
+-- That you can see, that you can smell, or taste, or hear, or touch.
+-- For example,
+
+PEOPLE 
+    > a man, a woman, a boy, a girl
+    > a teacher, an accountant, a software developer
+    > Shradhaa
+    > Mr. Kulkarni
+
+PLACES
+    > a house, a room, an apartment
+    > a school, an office
+    > Pune, Sambhaji nagar
+    > a beach, a jungle
+
+THINGS
+    > a shoe, a dress, a jeans
+    > a marker, a table, a chair
+    > a dog, a cat, a tiger
+    > a pizza, a pulav, a chocolate
+
+
+2] Abstract Nouns:
+
+-- Abstract nouns, unlike concrete nouns, are IDEAS, CONCEPTS, EMOTIONS.
+-- You cannot see or smell an idea or a concept.
+-- You cannot use your five senses with them.
+-- For example,
+
+IDEAS
+    > a plan
+    > a thought
+    > a suggestion
+    > an advice
+
+CONCEPTS
+    > a flower garden
+    > an outer space
+    > a costume theme
+    > a religion
+
+EMOTIONS
+    > Love
+    > Hate
+    > Anger
+    > Happy
+
+
+3] Common Nouns vs Proper nouns:
+
+-- Both of these nouns refer to people, places, things, ideas.
+-- For example,
+
+  Common Noun                    Proper Noun
+
+> a woman                        Shradhha   (A specific woman. Always starts with capital letter.)
+> a city                         Pune
+> a dog                          Sheru
+> a car                          Creta
+> a team                         Mumbai Indians
+
+---------------
+>> Practice :
+---------------
+
+1. In my class at Pune University, I have many friends. My best friend is Yashashree. I have a lot of love for her.
+   She has a cute dog. Its name is Juju.
+
+--> class, friends : Common nouns, Pune University : Proper noun
+    friend : Common noun, Yashashree : Proper noun
+    love : abstract noun
+    dog, name : Common noun, Juju : Proper noun
+
+
+4. Singular and Plural nouns:
+
+-- Singular in english means one.
+-- For example,
+
+    > a cat / one cat
+    > a school / one school
+    > a team / one team
+    > a lady / one lady
+    > a tomato / one tomato
+    > a piano / one piano
+
+-- Plural in english means more than one. It could be 2, 3, 4 or many.
+-- For example,
+
+    > cats / two cats / many cats
+    > schools
+    > teams
+    > ladies
+    > monkeys
+    > tomatoes
+    > pianos
+
+-- Lady > La'd'y > 'd' is a consonent (any letter except a, e, i, o, u).
+   consonent + y = ies
+   Lady - Ladies
+-- Monkey > Monk'e'y > 'e' is a vowel (5 vowels - a, e, i, o, u).
+   Vowel + y = s
+   Monkey - Monkeys
+-- No rule for 'es' or 's' in the word ending with letter o. You just need to know the word.

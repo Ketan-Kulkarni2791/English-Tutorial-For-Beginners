@@ -1,45 +1,17 @@
 -- Pronunciation
 -- Your Routine in english
--- Clause and types of Clause (Independent and Dependent)
--- Types of sentence (Simple and Compound)
--- Coordinating conjunction
--- Complex sentence
--- Subordinating conjunctions
--- Compound Complex sentence
--- All linking words
--- Explanation
--- Emphasis
--- Correction
--- Particularization
--- Dismissal
--- Connectors
--- Time
--- Result
--- Order of importance
--- Similarity
--- Contrasting
--- Sequencing
--- Tense overview
--- Regular habits
--- Simple present
--- Do Not
--- Permanent situation
--- Movies Book
--- Directions Instructions
--- Present Continous Tense
--- Changing situation
--- Present Continous
--- Temporary situation
--- Simple past
--- Completed actions
--- Series of actions
--- Simple past Tense
--- Past Continous
--- Present perfect
+-- Parts of speech - nouns, pronouns, verbs, adjectives, adverbs, conjunctions, prepositions, determiners punctuation and interjections
+-- Parts of sentence - Subject, Predicate, Object/compliment, and Adjuncts
+-- All 16 tenses
 -- Articles
--- Determiners
--- Parts of speech
--- Active and passive voice
--- Direct and Indirect speech
--- Imperative sentence
+-- Clauses
+-- Types of sentence (Simple, compound, complex, Compound complex)
+-- Active voice and passive voice.
+-- Direct and Indirect speeches.
+-- Interrogatives (Question sentences)
+-- Imperative sentences.
+-- Modal auxilliary verbs.
+-- Degrees of comparison
+-- Idioms and phrases
+-- Essay writing, letter writing, report writing.
 
