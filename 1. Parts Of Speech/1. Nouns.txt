@@ -109,3 +109,248 @@ EMOTIONS
    Vowel + y = s
    Monkey - Monkeys
 -- No rule for 'es' or 's' in the word ending with letter o. You just need to know the word.
+
+
+------------------------------
+>> Pronunciation Practice :
+------------------------------
+
+-- When it comes to Pronunciation, there are 3 types of plural sound.
+
+1. /s/    (sss)
+2. /z/    (zzz)
+3. /iz/   (izz)
+
+-- For example,
+
+    > cats              (/s/)
+    > schools           (/z/)
+    > teams             (/z/)
+    > ladies            (/z/)
+    > monkeys           (/z/)
+    > tomatoes          (/z/)
+    > pianos            (/z/)
+
+
+-- Nouns that end in - s, sh, x, ch, z, to make the plural form of these nouns, you will add 'es' and sound will be '/iz/'.
+-- For example,
+
+    > bus       buses       /busiz/
+    > bush      bushes      /bushiz/
+    > fox       foxes       /foxiz/
+    > beach     beaches     /beachiz/
+    > quiz      quizes      /quiziz/
+
+-- Nouns that ends in - f, fe. Sometimes the plural form the words ending with f or fe ends with 'ves'.
+-- For example,
+
+    > roof      roofs       /rufs/
+    > safe      safes       /safes/
+    > leaf      leaves      /livz/
+    > wife      wives       /wivez/
+    > shelf     shelves     /shelvz/
+
+
+-------------------------------------
+>> Example Sentences For Practice :
+-------------------------------------
+
+1.  I want a dog.
+    I like dogs.                        (/z/)
+
+2.  I don't want a fox.
+    I don't like foxes.                 (/iz/)
+
+3.  I bought a watch.
+    I have many watches.                (/iz/)
+
+4.  I have a new stereo.
+    Now, I have two stereos.            (/z/)
+
+5.  There's a knife.
+    There are 6 knives in the kitchen.  (/z/)
+
+-- There are some nouns those do not have singular form. They are always in plural form.
+-- For example,
+
+    > jeans
+    > pants
+    > clothes
+    > scissors
+    > pajamas
+    > sunglasses
+    > species
+
+-- There are some words that are for latin and greek origin have weird plural forms.
+-- For example,
+
+    > antenn'a'     antenn'ae'
+    > alumn'a'      alumn'ae'
+    > octop'us'     octop'i'
+    > cact'us'      cact'i'
+    > analys'is'    analys'es'
+    > diagnos'is'   diagnos'es'
+    > criteri'on'   criteri'a'
+    > phenomen'on'  phenomen'a'
+
+
+-------------------------------------
+>> Example Sentences For Practice :
+-------------------------------------
+
+1.  My sister has one child.
+    My brother has two children.
+
+2.  I am a quiet person,
+    so I don't talk to many people.
+
+3.  Did you catch one fish,
+    or two fish at the lake ?
+
+4.  I have one pair of glasses,
+    and two pairs of sunglasses.
+
+5.  He has one cactus in his front yard,
+    but many cacti in his backyard.
+
+
+5] Compound Nouns :
+
+-- Compound nouns are made up of two different words.
+-- Sometimes, the compound nouns are single nouns.
+-- For example,
+
+    > toothpaste
+
+-- Sometimes, there are two or more words hyphenated.
+-- For example,
+
+    > mother-in-law
+
+-- Sometimes, there are two separate words.
+-- For example,
+
+    > ice cream
+
+-- Now let's see the following combinations:
+
+    > noun + noun           bedroom
+    > noun + verb           haircut
+    > noun + preosition     passer-by/passerby
+    > verb + noun           washing machine
+    > verb + preposition    drawback
+    > preposition + noun    underground
+    > adjective + verb      dry-cleaning
+    > adjective + noun      software
+    > preposition + verb    input
+
+-- In the compound noun, the most significant word will be in the plural form.
+-- For example,
+
+    > newspaper         newspapers
+    > brother-in-law    brothers-in-law
+    > swimming pool     swimming pools
+    > woman-doctor      women-doctors
+
+-------------------------------------
+>> Example Sentences For Practice :
+-------------------------------------
+
+1.  I want to drink some 'cold water'.
+->  Nope. Cold is just an adjective describing the water.
+
+2.  She has a new 'boy friend'
+->  Nope. Boy is just an adjective describing the friend.
+
+3.  She has a 'boyfriend'.
+->  Yup. She has a relationship with this boy, which is more than just friends. 
+
+4.  The 'blue bird' was singing in the tree.
+->  Nope. Blue is just an adjective describing the bird.
+
+5.  The 'bluebird' was singing in the tree.
+->  Yup. Bluebird is a species of bird.
+
+6.  Let's meet at the 'bus stop'.
+->  Yup.
+
+7.  I have two 'alarm clocks'.
+->  Yup.
+
+
+6] Countable and Uncountable Nouns :
+
+-- Countable nouns are the nouns that you can count.
+-- Such as - 1 car, 2 cars, 100 cars, 10000000 cars.
+-- Uncountable nouns are the nouns that you cannot count.
+-- Such as - 1 snow, 2 snows, 100 snows.
+-- Uncountable nouns are usually a type or a group and they are always singular.
+-- For example,
+    
+    Countable Nouns:
+
+    > a dog, 2 dogs, 100 dogs
+    > a computer, 2 computers, 150 computers
+    > an idea, 2 ideas, 50 ideas
+    > a man, 2 men, 40 men
+    > a house, 2 houses, 30 houses
+
+    Uncountable Nouns:
+
+    > water
+    > air
+    > traffic
+    > equipment
+    > alphabet
+
+-- How to identify whether the noun is countable or uncountable >
+
+1} Some groups of words are often uncountable.
+
+    Liquids         >       water, juice, milk, beer
+    Powders         >       sugar, flour, salt, rice
+    Material        >       wood, plastic, metal, paper (sheets of paper)
+    Food            >       fruit, meat, cheese, bread
+    Abstract ideas  >       time, information, love, beauty
+
+2} Another trick is that most of the time, you can measure (not count) uncountable nouns.
+
+    > I have 2 litres of milk.  (Measuring the milk in liters and then counting the litres.)
+    > I have a glass of water.
+    > I have 5 cups of coffee.
+    > I have 2 kilograms of sugar.
+    > I ate 2 pieces of cake.
+    > I need pieces of paper/ metal.
+    > I have some water.
+
+-- Some words can be both countable and uncountable nouns.
+-- For example,
+
+    > I would like to eat some cake.
+      I would like two pieces of cake.
+      I would like to eat two cakes.    (Here we are considering the whole cake.)
+
+    > I would like to eat some chicken.
+      I would like two pieces of chicken.
+      I see two chickens.               (Here chicken is an animal. Above, it is food.)
+
+
+-------------------------------------
+>> Example Sentences For Practice :
+-------------------------------------
+
+1.  I put one hundred candles on six cakes.
+->  candles, cakes - countable nouns.
+
+2.  I ate two pieces of cake.
+->  cake - uncountable noun.
+
+3.  I saw some trash on all the streets.
+->  trash - uncountable, streets - countable.
+
+4.  I need to buy some milk and some butter from the market.
+->  milk, butter - uncountable, market - countable.
+
+5.  Traffic and pollution are the problems in many cities.
+->  traffic, pollution - uncountable, cities - countable
+
