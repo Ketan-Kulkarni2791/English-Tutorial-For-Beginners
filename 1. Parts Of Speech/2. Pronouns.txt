@@ -1,0 +1,26 @@
+****** What are Pronouns ?
+
+- Pronouns are also known as substitute of nouns.
+-- A pronoun is a word that is used in place of a noun or a noun phrase to avoid repetation.
+-- Such as he, she, you, me, him, me, myself etc.
+
+-- WHY TO USE PRONOUNS ?
+-- Let's see the following example:
+
+    > Anay is a good boy. Anay plays football. Anay loves Anay's parents. Anay's parents love Anay.
+
+-- Above example after using pronouns:
+
+    > Anay is a good boy. He plays football. He loves his parents. His parents love him.
+
+
+****** Types of Pronouns :
+
+1. Personal pronouns
+2. Possesive pronouns
+3. Reflexive pronouns
+4. Demonstrative pronouns
+5. Interogative pronouns
+6. Relative pronouns
+7. Indefinite pronouns
+8. Reciprocal pronouns
