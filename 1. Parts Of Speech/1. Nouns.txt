@@ -141,7 +141,7 @@ EMOTIONS
     > beach     beaches     /beachiz/
     > quiz      quizes      /quiziz/
 
--- Nouns that ends in - f, fe. Sometimes the plural form the words ending with f or fe ends with 'ves'.
+-- Nouns that ends in - f, fe. Sometimes the plural form of the words ending with f or fe ends with 'ves'.
 -- For example,
 
     > roof      roofs       /rufs/
@@ -181,7 +181,7 @@ EMOTIONS
     > sunglasses
     > species
 
--- There are some words that are for latin and greek origin have weird plural forms.
+-- There are some words that are from latin and greek origin have weird plural forms.
 -- For example,
 
     > antenn'a'     antenn'ae'

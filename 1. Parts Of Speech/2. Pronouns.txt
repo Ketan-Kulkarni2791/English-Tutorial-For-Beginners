@@ -3,6 +3,7 @@
 - Pronouns are also known as substitute of nouns.
 -- A pronoun is a word that is used in place of a noun or a noun phrase to avoid repetation.
 -- Such as he, she, you, me, him, me, myself etc.
+-- Their job is to make communication faster and more efficient because you don’t have to repeat the same word over and over again.
 
 -- WHY TO USE PRONOUNS ?
 -- Let's see the following example:
@@ -24,3 +25,30 @@
 6. Relative pronouns
 7. Indefinite pronouns
 8. Reciprocal pronouns
+
+
+1] PERSONAL PRONOUNS:
+
+-- When you think of pronouns, you most likely think first of personal pronouns.
+-- those associated with a certain person, thing, or group.
+-- Personal pronouns are always specific and are often used to replace a proper noun (someone’s name) or a collective group of 
+   people or things.
+-- Personal pronouns have two main groups, one referring to the subject of the sentence and one to the object.
+-- The first is used to replace the subject of the sentence: I, you, he, she, it, we, you and they.
+-- Notice that you is repeated as you can be singular, addressing one person, or plural, addressing a group of people. 
+-- So there are two types of pronouns :
+
+1. Subjective Pronouns : I, you, we, they, he, she, it.
+2. Objective Pronouns : me, you, us, them, him, her, it.
+
+-- Here, if I say : I met Shradhha. I becomes the subject and Shradhha becomes the object.
+-- When I say : Shradhha met me. Shradhha becomes the subject and I become the object i.e. me.
+-- More examples,
+
+    > He is waiting for me.             [Subjective pronoun : He, Objective pronoun : me]
+    > Cab driver is waiting for me.     [Subjective pronoun : Cab driver, Objective pronoun : me]
+    > She runs fast. Did you see her ?  [Subjective pronoun : She, you, Objective pronoun : her]
+    > You are clever. I know you.       [Subjective pronoun : You, I, Objective pronoun : you]
+    > I have done it.                   [Subjective pronoun : I, Objective pronoun : it]
+    > We will give gifts to them.       [Subjective pronoun : We, Objective pronoun : them]
+    
