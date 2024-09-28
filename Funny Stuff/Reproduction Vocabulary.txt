@@ -1,0 +1,13 @@
+********* Reproduction Across Different Species *********
+
+
+1. Humans   >>      Pregnant        [She is pregnant.]
+
+2. Animals  >>      Gravid          [The dog is gravid.]
+
+3. Birds    >>      To lay eggs     [The hen is going to lay eggs.]
+
+4. Insects  >>      To lay eggs     [The mosquito is going to lay eggs.]
+
+5. Trees    >>      To bear fruits  [The apple tree is going to bear fruits.]
+

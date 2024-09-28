@@ -51,4 +51,66 @@
     > You are clever. I know you.       [Subjective pronoun : You, I, Objective pronoun : you]
     > I have done it.                   [Subjective pronoun : I, Objective pronoun : it]
     > We will give gifts to them.       [Subjective pronoun : We, Objective pronoun : them]
+
+
+2] POSSESSIVE PRONOUNS:
+
+-- As the name implies, possessive pronouns show ownership.
+-- Possessive pronouns are words used to indicate that something belongs to someone or has a direct relationship with someone else.
+-- They are often used in speech and writing to avoid repetition.
+-- For example,
+
+    > I had dinner with Shradhha and Shradhha’s brother, Mayur.
+
+-- To avoid repeating the name Jane in the sentence, we use the possessive pronoun her to make the sentence neater and less repetitive:
+
+    > I had dinner with Shradhha and her brother, Mayur.
+
+-- There are two types of pronouns :
+
+1. Dependent Possessive Pronouns    : my, our, your, his, her, its, and their.
+2. Independent Possessive Pronouns  : mine, ours, yours, his, hers, its, and theirs.
+
+    (1) Dependent Possessive Pronouns :
+
+    -- Sometimes called possessive adjectives.
+    -- They are used to indicate ownership or a relationship.
+    -- For example:
+
+        > This is my
+        > Is this man your husband?
+        > Welcome to our
+        > The dog chased its
     
+    -- The rule of dependent possessive pronouns is that they are used before a noun.
+    -- You can think of them this way: they are dependent on the noun that comes after them.
+    -- The possessive pronouns are mostly used to show ownership between a person and the noun that follows.
+    -- However, there are some instances when we don’t exactly own the thing in question – people, countries, jobs etc. – but in 
+       these cases the possessive pronoun is used to show ownership in the sense of a direct relationship:
+
+        > I love my
+        > Is Jamaica your country of birth?
+        > Those are her
+    
+    -- Sometimes an adjective can come between the possessive pronoun and noun, but only if it is acting as a modifier for that noun:
+
+        > I lost my favourite pencil.
+        > Did you see her blue dress?
+
+    -- More examples of dependent possessive pronouns:
+
+        > My plane is delayed.
+        > My cab is delayed.
+        > Your dinner is ready.
+        > Could you bring 'his' tea out to him?
+        > Remember not to judge a book by 'its' cover.
+        > I would have knocked on 'their' door, but I heard 'their' baby crying.
+
+
+
+-- The independent possessive pronouns are mine, ours, yours, his, hers, its, and theirs.
+-- For example,
+
+    > This is my book.                  [Possesive determiners : my]
+    > This book is mine.                [Independent possessive pronoun : mine]
+    > Where is yours ?                  [Independent possessive pronoun : yours]
