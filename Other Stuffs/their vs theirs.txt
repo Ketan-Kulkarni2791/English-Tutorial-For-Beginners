@@ -1,0 +1,31 @@
+********* Theirs vs. Their *********
+
+-- What is the difference between 'theirs' and 'their'? They're both pronouns. They're both third-person plurals. But they are of 
+   different categories of pronouns.
+
+
+1) Theirs :
+
+-- 'Theirs' is the third-person plural possessive pronoun that is used to indicate that something belongs to a group of people or 
+   things.
+-- Keep in mind that 'theirs' is always used as a complete word and can't be separated into 'their' and 's'.
+-- For example,
+
+    > The car parked outside is theirs.
+    > He's a friend of theirs.
+
+
+2) Their :
+
+-- 'Their' is a possessive determiner that is used to indicate that something belongs to multiple people or things.
+-- It is used before a noun to show possession.
+-- For example,
+
+    > They are going to send their son to military school.
+
+-- 'Their' is also used instead of 'his' or 'her' as a singular determiner' to refer to a person of unspecified gender when their 
+    gender is not relevant to the context.
+-- For example,
+
+    > Every athlete should compete according to their weight.
+    
