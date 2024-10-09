@@ -60,9 +60,60 @@
 > they →    {her/him/it/me/us/them/you} 
 
 
+5. Which object form of the personal pronoun can substitute the underlined phrase in the sentence?
 
 
-5. Choose the correct form of possessive pronoun:
+> The teacher always gives 'the students' homework.
+    - me
+    - them
+    - you
+
+> I am reading the book to 'my little sister'.
+    - her
+    - us
+    - him
+
+> The boys are riding 'their bikes'.
+    - it
+    - them
+    - her
+
+> My father is writing a letter to 'John'.
+    - me
+    - her
+    - him
+
+> I don't know 'the answer'.
+    - she
+    - her
+    - it
+
+> Sally is going to see 'Anne'.
+    - her
+    - him
+    - me
+
+> Open 'the window', please.
+    - it
+    - them
+    - us
+
+> Can you tell 'the people' the way to the airport, please?
+    - you
+    - them
+    - us
+
+> The books are for 'Peter'.
+    - him
+    - her
+    - you
+
+> Can you help 'my sister and me', please?
+    - her
+    - me
+    - us
+
+6. Choose the correct form of possessive pronoun:
 
 > Is that {your/yours} pen? → Is it {your/yours}?
 > This is {mine/my} house. → It's {mine/my}.
