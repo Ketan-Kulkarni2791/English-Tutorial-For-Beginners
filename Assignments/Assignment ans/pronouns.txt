@@ -40,7 +40,7 @@
 
 > sister → she
 > boy → he
-> school → it
+> office → it
 > cars → they
 > Emily and Jack → they
 > bike → it
@@ -68,7 +68,7 @@
 > The teacher always gives the students homework.           them
 > I am reading the book to my little sister.                her
 > The boys are riding their bikes.                          them
-> My father is writing a letter to John.                    him
+> My father is writing a letter to Ketan.                    him
 > I don't know the answer.                                  it
 > Sally is going to see Anne.                               her
 > Open the window, please.                                  it
@@ -102,5 +102,38 @@
 
 > Is this our present? → Is this ours?
 
+> Is this your book?
+
+> Our parents live in Hamburg.
+
+> This is my guitar.
+
+> How old is his sister?
+
+> Where does your team play?
+
+> Yesterday she sent her letter to London.
+
+> Are those your trainers?
+
+> Ken has cut his finger.
+
+> The children finished their game.
+
+> The hotel has its own swimming pool.
+
 ------------------------------------------------------------------------------------------------------------------
 
+7. Choose the correct possessive determiners:
+
+Hi Shradhha,
+
+My name is Ketan. This is my friend Rahul. He's 12. His sister is nine. They have got a pet. Their pet is a dog. 
+His name is Charlie. Rahul and I go to the same office. There are 450 employees in our office. Rahul's manager is Mrs. Peterson. 
+She has got a pet, too. Her pet is a tortoise. Our manager is Mr. Smith. I like his lessons. He has two dogs. 
+The dogs love to play in his garden. Now I have a question for you. What's your pet?
+
+Yours,
+Ketan
+
+------------------------------------------------------------------------------------------------------------------
