@@ -200,4 +200,39 @@
     > I cooked the food myself.
 
 
+4] DEMONSTRATIVE PRONOUNS:
+
+-- A demonstrative pronoun is a pronoun used to point to specific people or things.
+-- For example, imagine there was a chair right next to you and a chair across the room from you.
+-- When talking about the chair nearer to you, you would say This is a chair.
+-- When talking about the chair far away from you, you would point to it and say That is a chair.
+-- In these sentences, the words this and that are demonstrative pronouns.
+-- Demonstrative pronouns can be used to refer to either people, animals, or objects.
+-- For example,
+
+    > People: This is my friend Rahul.
+    > Animals: That looks like a poisonous snake.
+    > Objects: The cars in the front are worth more than those in the back.
+
+-- A demonstrative pronoun can be used as either a subject or an object:
+
+    > Subject: I think I need new shoes. These are pretty old.
+    > Object: What is that?
+
+*** List of demonstrative pronouns:
+
+1) Singular demonstrative pronouns:
+
+    -- The words this and that are singular demonstrative pronouns.
+    -- They are used to refer to a single person or thing. 
+    -- The word this is used to refer to things close by, and that is used to refer to things far away.
+    -- In addition to being used as a demonstrative pronoun, the word that has many different meanings and can be used as an adjective, 
+       adverb, or a conjunction in addition to a pronoun.
+
+2) Plural demonstrative pronouns:
+
+    -- The words these and those are plural demonstrative pronouns.
+    -- They are used to refer to more than one person or thing.
+    -- These is used to refer to nearby things, and those is used to refer to faraway objects.
+
 
