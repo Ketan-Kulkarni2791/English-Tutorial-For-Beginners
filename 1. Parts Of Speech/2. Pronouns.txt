@@ -138,3 +138,66 @@
     > This is my book.                  [Possesive determiners : my]
     > This book is mine.                [Independent possessive pronoun : mine]
     > Where is yours ?                  [Independent possessive pronoun : yours]
+
+
+
+3] REFLEXIVE PRONOUNS :
+
+-- Reflexive pronouns are words ending in -self or -selves that are used when the subject and the object of a sentence are the 
+   same (e.g., I believe in myself).
+-- They can act as either objects or indirect objects. 
+-- The nine English reflexive pronouns are myself, yourself, himself, herself, oneself, itself, ourselves, yourselves, and 
+   themselves.
+
+** Reflexive pronouns are direct or indirect objects:
+
+-- A reflexive pronoun can be a direct object in a sentence when the subject and the direct object are one and the same.
+-- In English grammar, a direct object is a word or phrase that receives the action of the verb. In the sentence - The students eat 
+   cake - the direct object is cake; the word eat is the verb and cake is what’s being eaten.
+-- Example of direct object:
+
+    > Jack decided to reward Mary with a dinner out.
+    > Jack decided to reward himself with a dinner out.
+
+-- In the first sentence, Mary is the object of reward. Jack, the subject, is the object of reward in the second sentence, so we 
+   use the pronoun himself.
+
+-- Reflexive pronouns can also play the indirect object role in a sentence.
+-- In English grammar, an indirect object is the word or phrase that receives the direct object. In the sentence - The teacher gave 
+   the students cake - the indirect object is the students. The direct object is cake, and the students are the ones who eat it. 
+-- Example of indirect object:
+
+    > He knitted himself a new sweater.
+    > Cynthia pours herself a cup of tea every morning.
+
+-- It is worth noting that referring twice to the same noun as subject and object (rather than using a reflexive pronoun for the 
+   object) sounds just a bit creepy.
+-- “Jack decided to cook Jack a special supper,” for example, sounds unnerving to a primary English speaker.
+
+** Common errors with reflexive pronouns:
+
+    > Andrew and myself will conduct today’s meeting.           INCORRECT
+    > Andrew and I will conduct today’s meeting.                CORRECT
+
+    > You may submit your expenses to Mr. Martin or myself before Friday.       INCORRECT
+    > You may submit your expenses to Mr. Martin or me before Friday.           CORRECT
+
+    > You may submit your expenses to myself before Friday.     INCORRECT
+    > You may submit your expenses to me before Friday.         CORRECT
+
+    > He had a suitcase beside him. (NOT himself)           [prepositions of place]
+    > He had a suitcase beside him. (NOT himself)           [prepositions of place]
+    > She had a few friends with her. (NOT herself)         [after with when it means accompanied by]
+
+-- Some more examples,
+
+    > Be careful with that knife. You might cut yourself.
+    > We’ve brought ourselves something to eat.
+    > The children got dressed by themselves.
+    > I prepared the whole meal by myself.
+    > He lived by himself in an enormous house.
+    > She walked home by herself.
+    > I cooked the food myself.
+
+
+
