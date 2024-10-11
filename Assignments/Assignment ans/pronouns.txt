@@ -137,3 +137,19 @@ Yours,
 Ketan
 
 ------------------------------------------------------------------------------------------------------------------
+
+8. Choose the correct reflexive pronouns from the curly barcket option.
+   {myself, yourself, himself, herself, itself, ourselves, yourselves, themselves}
+
+> Ketan made this T-shirt himself.
+> Shradhha did her homework herself
+> We helped ourselves to some Coke at the party.
+> Shradhha, did you take the photo by yourself?
+> I wrote this poem myself.
+> He cut himself with the knife while he was doing the dishes.
+> The lion can defend itself.
+> My mother often talks to herself.
+> Ketan and Rahul, if you want more milk, help yourselves.
+> Shradhha and Prachi collected the stickers themselves.
+
+------------------------------------------------------------------------------------------------------------------
