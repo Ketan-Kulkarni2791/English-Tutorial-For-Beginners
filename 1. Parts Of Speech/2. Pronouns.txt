@@ -235,4 +235,18 @@
     -- They are used to refer to more than one person or thing.
     -- These is used to refer to nearby things, and those is used to refer to faraway objects.
 
+-- More examples of demonstrative pronouns:
+
+    > This is a really weird-looking fruit.
+    > I can’t believe she said that.
+    > We are going to need boxes that are a lot bigger than these.
+    > The restaurants here are a lot newer than those across town.
+
+    > ✅ Correct: That is an expensive car.
+      ❌ Incorrect: That are an expensive car.
+
+      ✅ Correct: Those look delicious.
+      ❌ Incorrect: Those looks delicious.
+
+
 
