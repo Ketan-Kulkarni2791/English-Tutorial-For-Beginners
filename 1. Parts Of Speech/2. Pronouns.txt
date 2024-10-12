@@ -301,5 +301,37 @@
         > Whom did you give the key to?
         > Whom did the police suspect of the crime?
     
+    2) Whose :
+
+        > I found this purse. Whose is this?
+        > There are shoes by the door. Whose are they?
+        > Look at that big house over there. Whose is it?
     
+    3) What :
+
+        > What is love?
+        > What are those flowers called?
+        > What are we going to do?
+    
+    4) Which :
+
+        > Which of these cookies do you want?
+        > She either cleaned her room or she didn’t. Which is it?
+        > We can go to the beach or the park. Which sounds more fun?
+
+*** How to use interrogative pronouns :
+
+-- Usually, interrogative pronouns are the first word used in questions:
+
+    > Who was that?
+    > What is her favorite color?
+
+-- However, it is possible to use an interrogative pronoun later in a question:
+
+    > You gave the money to whom?
+    > Excuse me? You used what to make this ice cream?
+
+
+
+
 
