@@ -332,6 +332,46 @@
     > Excuse me? You used what to make this ice cream?
 
 
+6] RELATIVE PRONOUNS:
+
+-- "The reason that plants are green is a substance called chlorophyll.", "Tortoises, which are reptiles, can live for hundreds 
+   of years."
+-- You probably know pronouns replace nouns in sentences and do a lot of the same jobs that nouns do.
+-- In above examples, we have used a special type of pronoun that we can use to provide additional information about nouns and 
+   pronouns through dependent clauses.
+-- These pronouns are called relative pronouns.
+-- Relative pronouns can really spice up your sentences, as long as you know how to use them correctly.
+
+*** What is a relative pronoun? 
+
+-- A relative pronoun is a pronoun that is used to introduce a relative clause.
+-- In particular, relative pronouns usually introduce relative clauses that describe nouns or other pronouns.
+-- For example, the word that is a relative pronoun in the sentence - Find me the book that has money hidden in it.
+-- A relative clause is a type of subordinate clause (also known as a dependent clause), which means that it can’t stand by 
+   itself as a complete sentence. For example,
+
+    > Independent clause: Shilpa is a friend (The clause can stand alone.)
+      Dependent clause: who is always there for me (The clause can’t stand alone.)
+
+-- Relative pronouns typically lead relative clauses and, in a manner of speaking, attach them to an independent clause. 
+   For example,
+
+    > Shilpa is a friend who is always there for me.
+
+-- In this sentence, the relative pronoun who introduces a dependent clause that modifies the noun friend.
+
+*** Whose :
+
+-- The word whose is both a possessive pronoun and a relative pronoun.
+-- We use whose to introduce a relative clause describing someone or something’s possession(s).
+
+    > I found the person whose cat lost their collar. (Whose cat lost their collar modifies the word person. Whose introduces 
+      a clause that describes a cat that belongs to the person.)
+
+
+
+
+
 
 
 
