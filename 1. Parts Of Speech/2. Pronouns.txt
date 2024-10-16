@@ -368,6 +368,134 @@
     > I found the person whose cat lost their collar. (Whose cat lost their collar modifies the word person. Whose introduces 
       a clause that describes a cat that belongs to the person.)
 
+*** Which and that :
+
+-- Which and that are used in relative clauses that describe objects or animals.
+-- In general, the word which is used to introduce nonessential information and that is used to give important information.
+
+    > Hawaiian pizza, which is my favorite food, is delicious. (Which is my favorite food modifies the noun phrase Hawaiian pizza. 
+      Which introduces a relative clause that provides nonessential additional information.)
+    > This is the puppy that won the contest. (That won the contest modifies the word puppy. That introduces a relative clause with 
+      important additional information that specifically tells us how the puppy is different from all other puppies.)
+
+-- Some more examples,
+
+    > I need to find a roommate who doesn’t smoke.
+    > The employee helped the customer whom the manager brought over.
+    > She gave a ride to a tourist whose family was from Sweden.
+    > The computer, which I bought yesterday, is on top of my desk.
+    > The uniform that had been worn by Napoleon was on display in the museum.
+
+*** Who and whom :
+
+-- The words who and whom often cause people difficulty. 
+-- Remember: who is used as a subject and whom is used as an object.
+
+    > The company hired guides (who/whom) spoke Spanish.
+    > Dennis was the one (who/whom) Albert gave the keys to.
+    > Katrina is the girl whom I like.
+
+
+7] INDEFINITE PRONOUNS:
+
+-- Nouns are important parts of speech that refer to people, places, things, and ideas.
+-- Sometimes, nouns need a break and ask pronouns to fill in for them.
+-- Pronouns can do all of the jobs that nouns do, such as acting as subjects or objects in sentences.
+-- However, there is a certain type of pronoun that doesn’t seem too motivated to do its job: the indefinite pronoun.
+-- An indefinite pronoun is a pronoun that doesn’t specifically identify what it is referring to.
+-- For example, the word someone is an indefinite pronoun in the sentence - Someone ate the last slice of pizza.
+-- We know that the pronoun someone refers to a human being but we don’t know any other information about them.
+-- Indefinite pronouns vaguely or generally refer to a person or thing.
+-- Indefinite pronouns have a variety of uses. Some of these include:
+
+    > Referring to an unknown person: The witness saw somebody sneaking around.
+    > Referring to a general amount: Most of the kids left, but several of them are still here.
+    > Referring to a totality or an absence: We tried everything, but nothing worked.
+
+*** Singular indefinite pronouns :
+
+-- Listed below are indefinite pronouns that are typically used as singular. 
+-- When used in a sentence, these words typically take a singular verb:
+
+    > another, anybody, anyone, anything, each, either, enough, everyone, everybody, everyone, everything, less, little, much, 
+      neither, nobody, no one, nothing, one, other, somebody, someone, something
+
+*** Plural indefinite pronouns :
+
+-- Listed below are the indefinite pronouns that are treated as plural.
+-- When used in sentences, these words typically use a plural verb:
+
+    > both, few, fewer, many, others, several
+
+*** Indefinite pronouns that can be singular or plural :
+
+-- Listed below are the indefinite pronouns that are treated as plural.
+-- When used in sentences, these words typically use a plural verb:
+
+    > both, few, fewer, many, others, several
+
+*** Indefinite pronouns that can be singular or plural :
+
+-- Depending on the sentence, the following indefinite pronouns can be either singular or plural
+-- The verb they use will depend on if these words are acting as singular or plural:
+
+    > all, any, more, most, none, some, such
+
+*** Singular indefinite pronouns :
+
+    > He had barely finished his first soda before he started to drink 'another'.
+    > 'Everyone' was shocked by the sudden announcement.
+    > 'Little' is known about the ancient civilization.
+    > My data shows that 'nobody' thinks a hot dog is a sandwich.
+    > 'Something' smells really good in the kitchen.
+
+*** Plural indefinite pronouns :
+
+    > 'Both' of my friends are hungry.
+    > We invited 'all' of the neighbors to the picnic, but 'few' have come.
+    > 'Many' of the cats have striped tails.
+    > 'Several' of the boys know how to swim.
+    > This particular plane functions underwater, but 'others' do not.
+
+*** Singular or plural indefinite pronouns :
+
+    > 'All' of the trash is gone.
+    > 'All' of my sisters are blonde.
+    > 'Most' of the drinks 'are' already gone.
+    > 'Most' of the town 'is' covered in snow.
+    > 'Some' of the pie 'has been eaten', and 'some' of the potatoes are missing.
+
+*** How to use indefinite pronouns :
+
+-- Like all other pronouns, indefinite pronouns can only be used the same ways as nouns. This means that indefinite pronouns can 
+   function as a subject or an object in a sentence.
+
+    > Subject: 'No one' knows what to do.
+    > Object: She was talking to 'someone' on the phone.
+
+-- The main thing to watch out for when using indefinite pronouns is that they adhere to subject-verb agreement.
+-- If an indefinite pronoun is treated as singular, it must use a singular verb. Likewise, if a pronoun is treated as plural, 
+   it must use a plural verb.
+
+    ✅ Correct: One of us was hiding something.
+    ❌ Incorrect: One of us were hiding something.
+
+    ✅ Correct: Both of the planets have rings.
+    ❌ Incorrect: Both of the planets has rings.
+
+-- You need to watch out for collective nouns, which are nouns that collectively refer to multiple people or things as one unit.
+-- If a collective noun is being used to refer to an entire group as a cohesive unit, use a singular noun. If the collective noun 
+   is being used to refer to the group members individually, use a plural noun.
+
+    > Singular: 'Some' of the team 'is' missing. (The members are not all present.)
+    > Plural: 'Some' of the team 'are' doing practice drills. (Individual members are performing drills.)
+
+
+
+
+
+
+
 
 
 
