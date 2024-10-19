@@ -20,7 +20,8 @@
 -- Except for imperative sentences (commands), a sentence also needs a subject, the thing doing the action. 
 
 
-*** Types of verbs :
+****** Types of verbs :
+
 
 1] Dynamic (action) verbs :
 
@@ -53,34 +54,70 @@
     -- A lot of verbs have more than one meaning, so they can be used as dynamic or stative. These include perception words: see, 
        hear, taste, smell, feel.
 
-    *** Auxiliary (helping) verbs :
 
-    -- Auxiliary verbs, or “helping verbs,” are used in English to change another verb’s tense, voice, or mood.
-    -- When auxiliary verbs are used, there’s always a main verb that represents the main action. However, the auxiliary verb must 
-       still be conjugated correctly.
-    -- he main auxiliary verbs are 'be', 'have', and 'do'.
-    -- We explain how they’re used specifically for conjugating below, but here are a few quick examples: 
+3] Auxiliary (helping) verbs :
 
-        > I have eaten sushi many times before. (tense)
-        > That piece of sushi was eaten by me. (voice)
-        > Did you eat my sushi? (mood)
+-- Auxiliary verbs, or “helping verbs,” are used in English to change another verb’s tense, voice, or mood.
+-- When auxiliary verbs are used, there’s always a main verb that represents the main action. However, the auxiliary verb must 
+    still be conjugated correctly.
+-- he main auxiliary verbs are 'be', 'have', and 'do'.
+-- We explain how they’re used specifically for conjugating below, but here are a few quick examples: 
 
-    *** Modal auxiliary verbs :
+    > I have eaten sushi many times before. (tense)
+    > That piece of sushi was eaten by me. (voice)
+    > Did you eat my sushi? (mood)
 
-    -- Some auxiliary verbs are added to another verb to show necessity, possibility, or capability.
-    -- Like other auxiliary verbs, modal auxiliary verbs are not the main verb, but they do change its meaning slightly.
-    -- Some common examples are  - can, may, could, should, would, must, ought, and might.
 
-        > I could swim across the English Channel, but 'should' I do it? 
-        > She must be the strongest person on the team, and 'might' be the strongest person in the region. 
+4] Modal auxiliary verbs :
+
+-- Some auxiliary verbs are added to another verb to show necessity, possibility, or capability.
+-- Like other auxiliary verbs, modal auxiliary verbs are not the main verb, but they do change its meaning slightly.
+-- Some common examples are  - can, may, could, should, would, must, ought, and might.
+
+    > I could swim across the English Channel, but 'should' I do it? 
+    > She must be the strongest person on the team, and 'might' be the strongest person in the region.
+     
     
-    *** Phrasal verbs :
+5] Phrasal verbs :
 
-    -- Phrasal verbs are phrases that act as individual verbs, often combining two or more words and changing their meaning.
-    -- The verb get, for example, becomes many different phrasal verbs when combined with different prepositions. 
+-- Phrasal verbs are phrases that act as individual verbs, often combining two or more words and changing their meaning.
+-- The verb get, for example, becomes many different phrasal verbs when combined with different prepositions. 
 
-        > When the bus stops, passengers get out on the sidewalk. 
-        > After losing his job, he’s getting by on savings.
-    
-    -- The important thing to remember about phrasal verbs is that they act as a single verb, so you can still use them with other 
-       verbs and prepositions.
+    > When the bus stops, passengers get out on the sidewalk. 
+    > After losing his job, he’s getting by on savings.
+
+-- The important thing to remember about phrasal verbs is that they act as a single verb, so you can still use them with other 
+    verbs and prepositions.
+
+
+****** Verb categories :
+
+-- Aside from the different types, verbs also come in different categories. Dynamic, stative, and auxiliary verbs all make up the 
+   categories below. 
+
+1] Transitive, intransitive, and ditransitive :
+
+-- Transitive, intransitive, and ditransitive refer to how a verb acts with direct and indirect objects.
+-- A direct object is the person or thing that the action happens to, while an indirect object is the person or thing that receives 
+   the direct object. 
+
+    > Anay threw the ball to Shradhha.
+
+-- In this example, the subject is Anay and the verb is threw. The direct object is the ball because that is what was thrown—Anay 
+   did the action to the ball. The indirect object is Shradhha because he received the direct object, the ball.
+
+-- Now,
+-- Verbs that don’t use either a direct or indirect object are called intransitive. These verbs are complete actions by themselves. 
+
+    > Examples: go, walk, run, talk, sit, sleep, work
+
+-- Verbs that use a direct object, but not an indirect object, are called transitive. They don’t always need a direct object, but 
+   they have the option.
+
+    > Examples: clean, like, love, dislike, hate, want, learn, deserve, say
+
+-- Verbs that use both direct and indirect objects are called ditransitive. They don’t always need an indirect object, but 
+   they have the option. 
+
+    > Examples: throw, make, buy, sell, read, give, lend, bring
+
