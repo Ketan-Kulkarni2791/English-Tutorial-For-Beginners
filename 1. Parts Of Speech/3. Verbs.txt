@@ -168,21 +168,82 @@ First Person Plural	            Second Person Plural	        Third Person Plural
     > Conjugation of the regular verb 'to live' (based on tense):
 
     Simple Present	                Simple Past	                Simple Future
-    -------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------
         live	                        lived	                   will live
-    -------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------
     Present Continuous	            Past Continuous	            Future Continuous
-    -------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------
         am living	                    was living	               will be living
-    -------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------
     Present Perfect	                Past Perfect	            Future Perfect
-    -------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------
         have lived	                    had lived	               will have lived
-    -------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------
     Present Perfect Continuous	    Past Perfect Continuous	    Future Perfect Continuous
-    -------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------
         have been living	            had been living	           will have been living
-    -------------------------------------------------------------------------------------
+    --------------------------------------------------------------------------------------------
+
+    > Conjugation of the regular verb to work (based on tense):
+
+    Simple Present	                Simple Past	                Simple Future
+    --------------------------------------------------------------------------------------------
+        work	                        worked	                   will work
+    --------------------------------------------------------------------------------------------
+    Present Continuous	            Past Continuous	            Future Continuous
+    --------------------------------------------------------------------------------------------
+        am working	                    was working	               will be working
+    --------------------------------------------------------------------------------------------
+    Present Perfect	                Past Perfect	            Future Perfect
+    --------------------------------------------------------------------------------------------
+        have worked	                    had worked	               will have worked
+    --------------------------------------------------------------------------------------------
+    Present Perfect Continuous	    Past Perfect Continuous	    Future Perfect Continuous
+    --------------------------------------------------------------------------------------------
+        have been working	            had been working	       will have been working
+    --------------------------------------------------------------------------------------------
+
+-- Irregular verbs do not follow a standard pattern when conjugated according to verb tense. 
+-- The following example illustrates this point:
+
+    > Conjugation of the irregular verb to drink (based on tense):
+
+    Simple Present	                Simple Past	                Simple Future
+    --------------------------------------------------------------------------------------------
+        drink	                        drank	                   will drink
+    --------------------------------------------------------------------------------------------
+    Present Continuous	            Past Continuous	            Future Continuous
+    --------------------------------------------------------------------------------------------
+        am drinking	                    was drinking	           will be drinking
+    --------------------------------------------------------------------------------------------
+    Present Perfect	                Past Perfect	            Future Perfect
+    --------------------------------------------------------------------------------------------
+        have drunk	                    had drunk	               will have drunk
+    --------------------------------------------------------------------------------------------
+    Present Perfect Continuous	    Past Perfect Continuous	    Future Perfect Continuous
+    --------------------------------------------------------------------------------------------
+        have been drinking	            had been drinking	       will have been drinking
+    --------------------------------------------------------------------------------------------
+
+    > Conjugation of the irregular verb to eat (based on tense):
+
+    Simple Present	                Simple Past	                Simple Future
+    --------------------------------------------------------------------------------------------
+        eat	                            ate	                       will eat
+    --------------------------------------------------------------------------------------------
+    Present Continuous	            Past Continuous	            Future Continuous
+    --------------------------------------------------------------------------------------------
+        am eating	                    was eating	               will be eating
+    --------------------------------------------------------------------------------------------
+    Present Perfect	                Past Perfect	            Future Perfect
+    --------------------------------------------------------------------------------------------
+        have eaten	                    had eaten	               will have eaten
+    --------------------------------------------------------------------------------------------
+    Present Perfect Continuous	    Past Perfect Continuous	    Future Perfect Continuous
+    --------------------------------------------------------------------------------------------
+        have been eating	            had been eating	           will have been eating
+    --------------------------------------------------------------------------------------------
+
 
 
 
