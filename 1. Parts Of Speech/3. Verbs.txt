@@ -55,7 +55,21 @@
        hear, taste, smell, feel.
 
 
-3] Auxiliary (helping) verbs :
+3] Linking verbs :
+
+-- Linking verbs are a special type of stative verb whose name gives a big clue as to what they do.
+-- Linking verbs are used to link a subject with a subject complement.
+-- A subject complement describes or identifies the subject of the sentence or clause.
+-- Linking verbs can function as intransitive verbs, which do not take direct objects.
+-- List of words used as linking verbs
+        be
+        become
+        seem
+        appear
+        grow
+
+
+4] Auxiliary (helping) verbs :
 
 -- Auxiliary verbs, or “helping verbs,” are used in English to change another verb’s tense, voice, or mood.
 -- When auxiliary verbs are used, there’s always a main verb that represents the main action. However, the auxiliary verb must 
@@ -68,7 +82,7 @@
     > Did you eat my sushi? (mood)
 
 
-4] Modal auxiliary verbs :
+5] Modal auxiliary verbs :
 
 -- Some auxiliary verbs are added to another verb to show necessity, possibility, or capability.
 -- Like other auxiliary verbs, modal auxiliary verbs are not the main verb, but they do change its meaning slightly.
@@ -78,7 +92,7 @@
     > She must be the strongest person on the team, and 'might' be the strongest person in the region.
      
     
-5] Phrasal verbs :
+6] Phrasal verbs :
 
 -- Phrasal verbs are phrases that act as individual verbs, often combining two or more words and changing their meaning.
 -- The verb get, for example, becomes many different phrasal verbs when combined with different prepositions. 
@@ -120,4 +134,56 @@
    they have the option. 
 
     > Examples: throw, make, buy, sell, read, give, lend, bring
+
+
+****** Verb Conjugation :
+
+-- Verb conjugation refers to how a verb changes to show a different person, tense, number or mood.
+
+
+1] To be verb conjugation :
+
+-- In English, we have six different persons: first person singular (I), second person singular (you), 
+   third person singular (he/she/it/one), first person plural (we), second person plural (you), and third person plural (they).
+-- We must conjugate a verb for each person.
+-- The verb to be is a particularly notable verb for conjugation because it’s irregular.
+-- Conjugation of the irregular verb to be:
+
+First Person Singular	        Second Person Singular	        Third Person Singular
+-------------------------------------------------------------------------------------------
+    I am	                        you are	                        he/she/it is
+
+First Person Plural	            Second Person Plural	        Third Person Plural
+-------------------------------------------------------------------------------------------
+    we are	                        you are	                        they are
+
+
+2] Verb tense conjugation :
+
+-- Verbs are also conjugated according to their tenses.
+-- Verb tense indicates when the action in a sentence is happening (e.g., in the present, future, or past).
+-- Regular verbs follow a standard pattern when conjugated according to tense.
+-- Look at the examples below:
+
+    > Conjugation of the regular verb 'to live' (based on tense):
+
+    Simple Present	                Simple Past	                Simple Future
+    -------------------------------------------------------------------------------------
+        live	                        lived	                   will live
+    -------------------------------------------------------------------------------------
+    Present Continuous	            Past Continuous	            Future Continuous
+    -------------------------------------------------------------------------------------
+        am living	                    was living	               will be living
+    -------------------------------------------------------------------------------------
+    Present Perfect	                Past Perfect	            Future Perfect
+    -------------------------------------------------------------------------------------
+        have lived	                    had lived	               will have lived
+    -------------------------------------------------------------------------------------
+    Present Perfect Continuous	    Past Perfect Continuous	    Future Perfect Continuous
+    -------------------------------------------------------------------------------------
+        have been living	            had been living	           will have been living
+    -------------------------------------------------------------------------------------
+
+
+
 
