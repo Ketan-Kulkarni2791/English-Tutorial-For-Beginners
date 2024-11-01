@@ -247,6 +247,25 @@ Distributive adjectives
     ✅ Correct: I want to hug that cute puppy.
 
 
+7] Proper adjectives:
+
+-- Proper adjectives are adjectives formed from proper nouns. 
+-- In general, proper adjectives are commonly used to say that something is related to a specific person or place. 
+-- Proper adjectives include words such as African, Napoleonic, and Shakespearian.
+-- Proper adjective examples :
+
+    > He was reading a 'Russian' newspaper.
+    > I think 'Chinese' food is tasty.
+    > We studied the history of 'Victorian' England in school today.
+    > This week we are learning about 'Japenese' history.
+    > 'Roman' architecture is beautiful.
+    > Researchers thought the artifacts might be 'Chinese' in origin.
+    > My father is 'Albanian', and my mother is 'Polish'.
+
+    ❌ Incorrect: Our family is hindu.
+    ✅ Correct: Our family is Hindu.   
+
+
 
 
 
