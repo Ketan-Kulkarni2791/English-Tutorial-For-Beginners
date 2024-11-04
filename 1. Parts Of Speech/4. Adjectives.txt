@@ -375,7 +375,7 @@ Distributive adjectives
     > Whose lunch is this? (Whose modifies the noun lunch. It is used to ask who the lunch belongs to.)
     > What building is the meeting in? (What modifies the noun building. It is used to ask where the location of the meeting is.)
     > Which bag is Amanda’s? (Which modifies the noun bag. It is used to ask for help identifying the bag that belongs to Amanda.)
-    
+
 
 -- List of interrogative adjectives :
 
@@ -388,6 +388,61 @@ Distributive adjectives
 -- The word whose is also a possessive adjective, which means you may also see it used outside of questions:
 
     > I need to find out 'whose' money this is.
+
+
+12] Attributive adjectives:
+
+-- Attributive adjectives are adjectives that are directly next to the noun and pronoun that they modify. 
+-- Usually, attributive adjectives come directly before nouns and pronouns but they modify. But they can sometimes appear 
+   after them.
+-- Attributive adjective examples :
+
+    > She has 'beautiful' handwriting.
+    > The 'hungry' gorilla ate the 'fresh' mangoes.
+    > Keith gave his dad something 'special' for his birthday.
+    > She has a 'small' car.
+    > He has some 'delicious' pies.
+    > I got my mom something 'special'.
+    > Usain is the fastest man 'alive'.
+    > Emir loves 'spicy' food. (The attributive adjective spicy modifies the noun food.)
+    > Silly, 'spunky' simians smiled at Simon. (The attributive adjectives silly and spunky modify the noun simians.)
+    > I thought Paula was waiting for Rick, but she said she was expecting someone else. (The attributive adjective else modifies the 
+    pronoun someone.)
+
+
+13] Distributive adjectives:
+
+-- Distributive adjectives are used to refer to members of a group individually. 
+-- Examples of distributive adjectives include each, every, either, and neither.
+-- Distributive adjective examples :
+
+    > 'Each' puppy got their own little doghouse.
+    > 'Every' member of the team scored a goal.
+    > I’ll be happy if 'either' candidate wins the election.
+    > 'Every' house on the street has a chimney.
+    > 'Either' option sounds good to me.
+    > 'Any' person can make a donation.
+
+-- List of distributive adjectives :
+
+-- Some of the most commonly used distributive adjectives include:
+
+    each
+    every
+    either
+    neither
+    any
+    both
+
+-- The words either, neither, and both are used to refer to situations in which there are two options.
+
+    > Either path will get us out of the woods.
+    > There could be a hairy spider in either box.
+    > Neither man knew how to fly a plane.
+    > Neither answer sounded right.
+    > Both cats chased the mouse.
+    > He carried the bucket using both hands.
+
 
 
 
