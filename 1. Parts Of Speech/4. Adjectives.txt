@@ -329,6 +329,68 @@ Distributive adjectives
 -- This lack of description is what makes limiting adjectives unique.
 
 
+10] Descriptive adjectives:
+
+-- Descriptive adjectives are adjectives that describe the characteristics, traits, or qualities of a noun or pronoun. 
+-- Most adjectives are descriptive adjectives. Words such as purple, friendly, and attractive are examples of descriptive 
+   adjectives.
+-- Descriptive adjective examples :
+
+    > A lot of 'interesting' people visit this park.
+    > She told a 'scary' story.
+    > The leaves turned 'orange' and 'red'.
+    > He stood next to the 'tall' woman.
+    > The monkeys were very 'loud'. 
+    > Hand me 'that' pen.
+    > We played with the 'cute' kittens.
+    > The skyscraper was 'humongous'.
+    > I don’t like cold weather. (The adjective cold modifies the noun weather. Cold is a descriptive adjective that qualifies 
+      the weather by saying it has a low temperature.)'
+    > Her clothes are really expensive. (The adjective expensive modifies the noun clothes. Expensive is a descriptive adjective that 
+      tells us the clothes cost a lot of money.)
+    > We used 'red', 'green', and 'orange' paint. (The adjectives red, green, and orange modify the noun paint. All three of these 
+      adjectives are descriptive adjectives that say what color the paint was.)
+
+-- List of descriptive adjectives :
+
+    > angry, blue, careful, dry, eager, fast, great, hot, incredible, jumpy, klutzy, little, mighty, nice, outlandish, 
+    > prim, quiet, rude, special, ticklish, undercover, vicious, wide, young, zesty
+
+
+11] Interrogative adjective:
+
+-- Interrogative adjectives are adjectives that are used to ask questions. 
+-- The interrogative adjectives are what, which, and whose.
+-- Interrogative adjective examples :
+
+    > 'What' color is your favorite?
+    > 'Which' button turns off the lights?
+    > 'Whose' turn is it to wash the cat?
+    > I have three cakes here. 'Which' one do you want?
+    > 'What' town did they move to?
+    > 'Which' movie do you want to see?
+    > 'Whose' party are we going to?
+    > I forgot to ask her which dress I was supposed to buy.
+    > Did he ask you whose car was parked in the yard?
+    > Whose lunch is this? (Whose modifies the noun lunch. It is used to ask who the lunch belongs to.)
+    > What building is the meeting in? (What modifies the noun building. It is used to ask where the location of the meeting is.)
+    > Which bag is Amanda’s? (Which modifies the noun bag. It is used to ask for help identifying the bag that belongs to Amanda.)
+    
+
+-- List of interrogative adjectives :
+
+-- There are only three interrogative adjectives. They are:
+
+    which
+    what
+    whose
+
+-- The word whose is also a possessive adjective, which means you may also see it used outside of questions:
+
+    > I need to find out 'whose' money this is.
+
+
+
 
 
 
