@@ -266,6 +266,72 @@ Distributive adjectives
     ✅ Correct: Our family is Hindu.   
 
 
+8] Participial adjectives:
+
+-- Participial adjectives are adjectives that are based on participles, which are words that usually end in -ed or -ing and 
+   derive from verbs. 
+-- Participial adjectives include words like amazing, impressed, and fascinating.
+-- Participial adjective examples :
+
+    > Travis was late for his 'swimming' lessons.
+    > Please hand me my 'reading' glasses.
+    > The silly clown cheered up the 'bored' children.
+    > I put on my 'running' shoes.
+    > She was really 'tired'.
+    > He is taking his 'driving' test today.
+    > She was 'scared'.
+    > Teresa bought her niece a coloring book. (The participial adjective coloring modifies the word book; it indicates that the 
+      book is intended to be colored on.)
+    > The math class was incredibly boring. (The participial adjective boring is the subject complement that describes the math class. 
+      The sentence says that the math class bored the students.)
+    > He fixed the broken radio. (The participle adjective broken describes the noun radio; the radio had been broken by someone 
+      or something.)
+
+
+-- Types of participial adjectives :
+
+-- Both past participles and present participles are used as participial adjectives.
+
+1) Past participles as participial adjectives :
+
+-- There are many participial adjectives formed from past participles. For regular verbs, adding -ed to the base form creates 
+   the past participle. 
+-- The following list gives just some examples:
+
+    > awakened, burnt, crushed, destroyed, enhanced, frozen, glazed, heated, iced, jinxed, kept, licensed, mangled, notched, 
+    > opened, pickled, quilted, rented, silenced, televised, unleashed, vaccinated, whispered, yelled, zapped
+
+
+2) Present participles as participial adjectives :
+
+-- Lots of present participles are used as participle adjectives, too. 
+-- Adding -ing to the base form of a verb creates the present participle.
+
+    > answering, boring, caring, daring, entertaining, freezing, guessing, hiding, itching, jutting, kissing, listening, moving, 
+    > nursing, pleasing, quivering, rustling, smiling, tantalizing, unloading, visiting, waiting, yodeling, zooming
+
+
+9] Limiting adjectives:
+
+-- Limiting adjectives are adjectives that restrict a noun or pronoun rather than describe any of its characteristics or qualities. 
+-- Limiting adjectives overlap with other types of adjectives such as demonstrative adjectives and possessive adjectives. 
+-- Limiting adjectives include words such as these, your, and some.
+-- Limiting adjective examples :
+
+> I bought 'some' eggs at the store.
+> She found 'three' pennies under the couch cushions.
+> Take a look at 'that' house over there.
+> Flora owns 'friendly' cats.                   # Descriptive adjective
+> Flora owns 'some' cats.                       # Limiting adjective
+
+-- In the above example, the adjective some doesn’t describe anything about the cats. We don’t know what the cats look like, how 
+   they act, or anything else about them. We haven’t learned any information that would help us describe these specific cats.
+-- This lack of description is what makes limiting adjectives unique.
+
+
+
+
+
 
 
 
