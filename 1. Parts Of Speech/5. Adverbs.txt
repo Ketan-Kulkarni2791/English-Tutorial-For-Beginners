@@ -1,0 +1,138 @@
+-- Adverbs are a major part of speech that we use to modify verbs, adjectives, clauses, and even other adverbs.
+-- Adverbs provide more information in a sentence by modifying another word.
+-- For example, the adverb 'quickly' in the sentence - Jeremiah ran quickly - tells us that Jeremiah ran with high speed.
+-- As another example, the adverb 'really' in the sentence - The movie was really boring - tells us that the movie wasn’t just boring but 
+   that it was a colossal snooze-fest.
+
+****** Different types of adverbs:
+
+Conjunctive adverbs
+Adverbs of frequency
+Adverbs of time
+Adverbs of manner
+Adverbs of degree
+Adverbs of place
+
+
+1] Conjunctive adverbs:
+
+-- Unlike the other types of adverbs we will look at, conjunctive adverbs play an important grammatical role in sentences. 
+-- Basically, a conjunctive adverb is an adverb that acts like a conjunction; a conjunctive adverb is used to connect two clauses 
+   or two sentences together. 
+-- For example:
+
+    > I went to the store to buy new shoes. 'However', the store was already closed when I got there.
+
+-- In the second sentence, the conjunctive adverb 'however' tells us that this sentence is related to the one immediately before it. 
+-- The adverb 'however' acts like a conjunction by linking these two sentences together.
+-- We can also use conjunctive adverbs with a semicolon rather than a period:
+
+    > Tina wasn’t too confident about her answers; 'nevertheless', she passed the exam easily.
+
+-- Examples of conjunctive adverbs used in sentences :
+
+    > Joey was playing in the sandbox. 'Meanwhile', his brother Noah was sleeping in a hammock.
+    > Candy isn’t a healthy breakfast. 'Instead', you could eat fruit.
+    > Delilah is the most popular member of the band; 'therefore', her name is always first on the posters.
+    > We can’t bake the cake because we ran out of milk. 'Also', we don’t have any eggs left.
+    > The movie was the perfect fit for the director who loved action and explosions. 'Moreover', she had worked with the lead actor 
+      in many other films.
+    > The weather forecast said a tornado was likely; 'hence', the picnic was canceled.
+    > The team’s owner was willing to pay any price for the best players; 'thus', the team was able to win multiple championships.
+    > I forgot to put on sunscreen. 'Consequently', I have a sunburn today.
+    > Gorillas have proven to be very intelligent. 'For example', Koko the Gorilla was able to learn sign language. (To provide 
+      evidence to an argument or prove a point)
+    > Washington, DC, has several examples of neoclassical architecture. For instance, the Supreme Court building resembles a Greek 
+      or Roman temple.  (To provide evidence to an argument or prove a point)
+    > We got to go everywhere we wanted, and everyone had fun. 'All in all', it was a great trip. (To summarize a point)
+    > Cheese, sauce, and crust combine to create a trifecta of deliciousness. 'In conclusion', pizza is the greatest food ever 
+      invented. (To summarize a point)
+
+-- Conjunctive adverbs list :
+
+-- There are numerous words that can be used as conjunctive adverbs. Some common conjunctive adverbs include:
+
+    also
+    besides
+    finally
+    however
+    furthermore
+    nonetheless
+    still
+
+
+2] Adverbs of frequency:
+
+-- A number of adverbs are used to describe the frequency of an event. 
+-- By doing so, these adverbs describe how often something happens.
+-- Examples:
+
+    > constantly, frequently, occasionally, sometimes, usually, never, always, rarely, daily, weekly, monthly, yearly
+
+-- Examples of adverbs of frequency used in sentences :
+
+    > I 'usually' put butter and syrup on my pancakes.
+    > She 'never' drives on icy roads.
+    > 'Sometimes', Mark gets coffee for his coworkers.
+
+
+3] Adverbs of time:
+
+-- Some adverbs tell us when something happens. Adverbs of time include words that refer to specific times and more general time 
+   periods.
+-- Examples
+
+    > today, yesterday, tomorrow, tonight, soon, later, now, eventually, forever, still, yet, early, late, recently, since
+
+-- Examples of adverbs of time used in sentences :
+
+    > We are going to see a movie 'tomorrow'.
+    > My daughter hasn’t learned how to tie her shoes 'yet'.
+    > 'Recently', Trevor got a job as a construction worker.
+
+
+4] Adverbs of manner:
+
+-- Adverbs of manner tell us how something happens. A huge number of adverbs fall under this type and many of 
+   the  -ly adverbs formed from adjectives fit into this group.
+-- Examples:
+
+    > angrily, cautiously, hungrily, nicely, slowly, deftly, precisely, unknowingly, loudly
+
+-- Examples of adverbs of manner used in sentences :
+
+    > The clown 'skillfully' made animals out of balloons.
+    > She 'bravely' rescued a kitten from a tree.
+    > Natalie 'wisely' took an extra umbrella with her.
+
+
+5] Adverbs of degree:
+
+-- Generally, adverbs of degree describe the intensity of an action or quality. These adverbs are often used as intensifiers to 
+   describe adjectives and other adverbs.
+-- Examples:
+
+    > very, really, extremely, incredibly, too, quite, barely, deeply, fairly, greatly, hardly, highly, intensely, somewhat, 
+    > totally, little, less, least, much, more, most
+
+-- Examples of adverbs of degree used in sentences:
+
+    > It is 'really' hot in the basement.
+    > That book is much 'too' expensive.
+    > He 'barely' knew how to cook at all.
+
+
+6] Adverbs of place:
+
+-- Adverbs of place tell us where something happens.
+-- Examples:
+
+    > here, there, everywhere, nowhere, somewhere, anywhere, in, out, inside, outside, wherever, on, off, over, under, away, left, 
+      right, north, south, east, west
+
+-- Examples of adverbs of place used in sentences:
+
+    > I can’t find my keys 'anywhere'.
+    > She loves to spend sunny afternoons 'outside' by the pool.
+    > The lost travelers went 'north' until they found a small town.
+
