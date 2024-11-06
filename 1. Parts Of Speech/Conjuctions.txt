@@ -1,0 +1,43 @@
+-- 'The children were asleep. Their parents were asleep. Their dogs were asleep.' These sentences work fine separately but seem a 
+   little repetitive, don’t you think? Instead, let’s use a conjunction to connect them together. 
+-- A conjunction is a word or phrase that connects words, phrases, clauses, and sentences together. 
+-- The word 'and' is a commonly used example of a conjunction.
+-- Here are two examples of how we can use a conjunction like 'and' in both a simple and complex way:
+    > The flower is yellow and white. (connects two adjectives)
+    > The flower is yellow, and it has a particular smell. (connects two sentences)
+-- Conjunctions are useful in writing and speech to connect related ideas together, and they help us make our sentences shorter, 
+   less repetitive, or less confusing.
+-- List of common conjunctions:
+
+    - The following list contains some of the most commonly used conjunctions:
+
+            and
+            but
+            or
+            so
+            because
+            however
+            after
+            since
+            during
+            than
+            unless
+            that
+            while
+
+-- Some more examples :
+
+    > Everyone sang 'and' danced.
+    > He might have gone to the park, or he may have returned home. (Or connects two sentences.)
+    > 'Whenever' it rains, we stay inside and watch movies.
+    > We stay inside and watch movies 'whenever' it rains.
+    > I need flowers that are either red or pink. (lists two options)
+    > She would much rather play outside than sit in the house. (states a preferred choice)
+    > The dog was as big as a horse! (forms a simile)
+    > I am hungry 'and' tired.
+    > He tried to buy some food, 'but' the store was closed.
+    > Cheetahs run faster 'than' most other animals.
+    > 'Since' we were kids, we have loved riding roller coasters.
+    > The soup has 'both' carrots 'and' onions.
+    > You might think we know everything there is to know about dinosaurs. 'But' you’d be wrong.
+    > The Grinch never liked Christmas trees. 'Or' anything else that had to do with Christmas.
